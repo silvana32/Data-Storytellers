@@ -78,14 +78,18 @@ PowerPoint
 
 # 📊 Main Insights (Example)
 
-Most accidents occur in urban areas during daytime.
+- Most accidents occur in urban areas during daytime.
 
-Weather and visibility significantly affect accident severity.
+- Weather and visibility significantly affect accident severity.
 
-Young drivers (18–25) and fatigue/alcohol are common risk factors.
+- Young drivers (18–25) and fatigue/alcohol are common risk factors.
 
 # 📢 Final Deliverables
+
 Cleaned dataset
+
 SQL question report
+
 Excel and Power BI dashboards
+
 Final PowerPoint presentation
