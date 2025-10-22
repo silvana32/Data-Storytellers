@@ -23,14 +23,13 @@ Present the main findings and recommendations in a PowerPoint report.
 
 📂 Project Structure
 Traffic_Accidents_Analysis/
-│
-├── data/                # Cleaned and raw data files (.csv, .xlsx)
-├── python/              # Python scripts or notebooks for cleaning
-├── sql/                 # SQL questions and answers
-├── excel/               # Excel analysis and dashboard
-├── powerbi/             # Power BI dashboard (.pbix)
-├── docs/                # PowerPoint presentation and final report
-└── README.md            # Project overview (this file)
+data/       # Cleaned and raw data files (.csv, .xlsx)
+python/     # Python scripts or notebooks for cleaning
+sql/        # SQL questions and answers
+excel/      # Excel analysis and dashboard
+powerbi/    # Power BI dashboard (.pbix)
+docs/       # PowerPoint presentation and final report
+README.md   # Project overview (this file)
 
 🛠 Tools Used
 Python (Pandas, NumPy, Matplotlib)
