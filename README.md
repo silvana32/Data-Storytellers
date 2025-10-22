@@ -1,8 +1,8 @@
-🛣 Traffic Accidents Analysis Project
+# 🛣 Traffic Accidents Analysis Project
 
 
 
-📘 About the Project
+# 📘 About the Project
 
 This project analyzes traffic accidents data to identify patterns, causes, and potential solutions for reducing accident rates.
 
@@ -10,7 +10,7 @@ The analysis covers multiple dimensions such as weather, time, driver condition,
 
 
 
-🎯 Objectives
+# 🎯 Objectives
 
 Clean and preprocess raw accident data using Python.
 
@@ -26,7 +26,7 @@ Present the main findings and recommendations in a PowerPoint report.
 
 
 
-🧩 Team Members
+# 🧩 Team Members
 
  Silvana Samir Latif
 
@@ -42,7 +42,7 @@ Present the main findings and recommendations in a PowerPoint report.
 
 
 
-📂 Project Structure
+# 📂 Project Structure
 
 Traffic_Accidents_Analysis/
 
@@ -62,7 +62,7 @@ README.md   # Project overview (this file)
 
 
 
-🛠 Tools Used
+# 🛠 Tools Used
 
 Python (Pandas, NumPy, Matplotlib)
 
@@ -76,7 +76,7 @@ PowerPoint
 
 
 
-📊 Main Insights (Example)
+# 📊 Main Insights (Example)
 
 Most accidents occur in urban areas during daytime.
 
@@ -84,7 +84,7 @@ Weather and visibility significantly affect accident severity.
 
 Young drivers (18–25) and fatigue/alcohol are common risk factors.
 
-📢 Final Deliverables
+# 📢 Final Deliverables
 Cleaned dataset
 SQL question report
 Excel and Power BI dashboards
