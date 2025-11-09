@@ -9,7 +9,6 @@ This project analyzes traffic accidents data to identify patterns, causes, and p
 The analysis covers multiple dimensions such as weather, time, driver condition, and road type.
 
 
-
 ## 🎯 Objectives
 
 - Clean and preprocess raw accident data using Python.
@@ -20,19 +19,19 @@ The analysis covers multiple dimensions such as weather, time, driver condition,
 
 - One in Excel (interactive visualization using charts & pivot tables).
 
-- One in Power BI (for deeper insights and KPIs).
+- One in Power BI (for deeper insights).
 
-- Present the main findings and recommendations in a PowerPoint report.
+- Present the main findings and recommendations in a final report & PowerPoint.
 
 
 
 ## 🧩 Team Members
 
-- Silvana Samir Latif
-
-- Manar Mohammed Ibrahim
+- Silvana Samir Latif (Team Leader)
 
 - Israa Ibrahim Mohammed
+
+- Manar Mohammed Ibrahim
 
 - Abdel Rahman Ahmed Talat
 
@@ -64,7 +63,7 @@ Traffic_Accidents_Analysis/
 
 ## 🛠 Tools Used
 
-- Python (Pandas, NumPy, Matplotlib)
+- Python (Pandas)
 
 - Excel (Pivot tables, Charts, Dashboard)
 
@@ -76,14 +75,6 @@ Traffic_Accidents_Analysis/
 
 
 
-## 📊 Main Insights (Example)
-
-- Most accidents occur in urban areas during daytime.
-
-- Weather and visibility significantly affect accident severity.
-
-- Young drivers (18–25) and fatigue/alcohol are common risk factors.
-
 ## 📢 Final Deliverables
 
 - Cleaned dataset
@@ -92,4 +83,4 @@ Traffic_Accidents_Analysis/
 
 - Excel and Power BI dashboards
 
-- Final PowerPoint presentation
+- Final report & PowerPoint presentation
