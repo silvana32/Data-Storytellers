@@ -45,8 +45,6 @@ The analysis covers multiple dimensions such as weather, time, driver condition,
 
 Traffic_Accidents_Analysis/
 
-- data/       # Cleaned and raw data files (.csv, .xlsx)
-
 - python/     # Python scripts or notebooks for cleaning
 
 - sql/        # SQL questions and answers
